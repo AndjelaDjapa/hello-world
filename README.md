@@ -2,4 +2,4 @@
 Test.
 
 Hello, people. 
-My name is Andjela and I am a Graphic Design student. 
+It is nice to meet you all. 
